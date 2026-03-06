@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "阿久城よ",
+  "base_artist": "谷岡 俊一",
+  "createdAt": "2026-03-06T13:45:45.222928Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "阿久城よ",
+      "artist": "谷岡 俊一",
+      "has_synced": false,
+      "path": "select/pl_01_阿久城よ_谷岡_俊一.txt"
+    }
+  ]
+}
